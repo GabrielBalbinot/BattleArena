@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleArena.GUI", "BattleArena.GUI\BattleArena.GUI.csproj", "{BA6A9A59-8EB8-4E17-8678-FDF6BEF5E910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleArena.GameLogic", "BattleArena.GameLogic\BattleArena.GameLogic.csproj", "{EF1E8824-2AFA-430B-BAE2-2D6D63BACEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6A9A59-8EB8-4E17-8678-FDF6BEF5E910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6A9A59-8EB8-4E17-8678-FDF6BEF5E910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6A9A59-8EB8-4E17-8678-FDF6BEF5E910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6A9A59-8EB8-4E17-8678-FDF6BEF5E910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1E8824-2AFA-430B-BAE2-2D6D63BACEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1E8824-2AFA-430B-BAE2-2D6D63BACEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1E8824-2AFA-430B-BAE2-2D6D63BACEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1E8824-2AFA-430B-BAE2-2D6D63BACEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BA3A82-7163-4BE1-B6FA-50441A5DD724}
+	EndGlobalSection
+EndGlobal

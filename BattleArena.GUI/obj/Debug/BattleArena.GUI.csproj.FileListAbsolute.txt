@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\bin\Debug\BattleArena.GUI.exe.config
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\bin\Debug\BattleArena.GUI.exe
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\bin\Debug\BattleArena.GUI.pdb
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\bin\Debug\BattleArena.GameLogic.dll
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\bin\Debug\BattleArena.GameLogic.pdb
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.FormPrincipral.resources
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.Properties.Resources.resources
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.csproj.CopyComplete
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.exe
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GUI\obj\Debug\BattleArena.GUI.pdb

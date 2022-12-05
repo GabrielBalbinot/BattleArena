@@ -1,0 +1,8 @@
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\bin\Debug\BattleArena.GameLogic.dll
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\bin\Debug\BattleArena.GameLogic.pdb
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\obj\Debug\BattleArena.GameLogic.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\obj\Debug\BattleArena.GameLogic.Media.resources
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\obj\Debug\BattleArena.GameLogic.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\obj\Debug\BattleArena.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\obj\Debug\BattleArena.GameLogic.dll
+C:\Users\gabri\source\repos\BattleArena\BattleArena.GameLogic\obj\Debug\BattleArena.GameLogic.pdb
